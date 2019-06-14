@@ -25,8 +25,6 @@ class jobAdapter(val jobProfileList: ArrayList<jobProfilemodel>, val context: Co
         val jobProfile: jobProfilemodel = jobProfileList[position]
         holder.name.text = jobProfile.name
         holder.skill.text = jobProfile.skill
-
-
     }
 
     class ViewHolder(view: View) : RecyclerView.ViewHolder(view) {

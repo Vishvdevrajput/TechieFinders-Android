@@ -28,6 +28,7 @@
             android:layout_weight="2">
         <ImageView
                 android:layout_width="wrap_content"
+                android:id="@+id/image_add_sub"
                 android:layout_height="wrap_content"
                 android:background="@drawable/ic_add" android:tint="@color/accent"/>
 
