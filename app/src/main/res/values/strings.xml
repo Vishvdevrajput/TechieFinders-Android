@@ -16,4 +16,6 @@
     <string name="menu_send">Send</string>
     <string name="title_activity_login">LoginActivity</string>
     <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_post_job">PostJob</string>
+    <string name="title_activity_single_post">SinglePost</string>
 </resources>

@@ -1,0 +1,95 @@
+{
+  "jobs": [
+    {
+      "jobId": "100",
+      "jobName": "software Developer",
+      "jobDes": "Works independently under limited supervision and applies knowledge of subject matter in Applications Development. Possess sufficient knowledge and skills to effectively deal with issues, challenges within field of specialization to develop simple applications solutions. Second level professional with direct impact on results and outcome.",
+      "npApplied": 9,
+      "npReq": 2,
+      "jpId": "123",
+      "skill": [
+        {
+          "tag": "java"
+        }
+      ],
+      "appliedList": [],
+      "suggestedList": []
+    },
+    {
+      "jobId": "101",
+      "jobName": "Front End Developer",
+      "jobDes": "Design & Develop high-volume, low-latency applications for critical systems and delivering high-availability and performance",
+      "npApplied": 5,
+      "npReq": 3,
+      "jpId": "123",
+      "skill": [
+        {
+          "tag": "java"
+        }
+      ],
+      "appliedList": [
+        {
+          "apId": "ap101",
+          "name": "Bharath",
+          "imageUrl": "https://www.flynz.co.nz/wp-content/uploads/profile-placeholder.png",
+          "skill": [
+            {
+              "tag": "java"
+            }
+          ],
+          "applied": true
+        }
+      ],
+      "suggestedList": [
+        {
+          "apId": "ap102",
+          "name": "Karthik",
+          "imageUrl": "https://www.flynz.co.nz/wp-content/uploads/profile-placeholder.png",
+          "skill": [
+            {
+              "tag": "java"
+            }
+          ],
+          "applied": false
+        },
+        {
+          "apId": "ap103",
+          "name": "Kranthi",
+          "imageUrl": "https://www.flynz.co.nz/wp-content/uploads/profile-placeholder.png",
+          "skill": [
+            {
+              "tag": "java"
+            }
+          ],
+          "applied": false
+        },
+        {
+          "apId": "ap104",
+          "name": "Kiran",
+          "imageUrl": "https://www.flynz.co.nz/wp-content/uploads/profile-placeholder.png",
+          "skill": [
+            {
+              "tag": "java"
+            }
+          ],
+          "applied": false
+        }
+      ]
+    },
+    {
+      "jobId": "102",
+      "jobName": "Quality Assurance Engineer",
+      "jobDes": "Are you a high-performing, collaborative, results oriented and technologically savvy person who is keen on sales in the digital industry? Then this highly visible role is for you",
+      "npApplied": 10,
+      "npReq": 2,
+      "jpId": "124",
+      "skill": [
+        {
+          "tag": "java"
+        }
+      ],
+      "appliedList": [],
+      "suggestedList": []
+    }
+  ]
+}
